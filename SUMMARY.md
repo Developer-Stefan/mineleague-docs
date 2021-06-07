@@ -1,5 +1,5 @@
 # Table of contents
 
-* [MineLeagueAPI - Changelog](README.md)
+* [MineLeagueAPI Documents](README.md)
 * [Untitled](untitled.md)
 
