@@ -4,7 +4,7 @@
 <dependency>
    <groupId>net.mineleague</groupId>
    <artifactId>MineLeagueAPI</artifactId>
-   <version>LATEST</version>
+   <version>2.1.3</version>
 </dependency>
 ```
 
